@@ -1,0 +1,12 @@
+.caixa-conversa{
+    padding: 70px;
+    min-height: 500px;
+    border: 1px solid gray;
+}
+
+
+.atendimento{
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: 50px;
+}
